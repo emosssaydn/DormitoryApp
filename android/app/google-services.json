@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592001717328",
+    "project_id": "yurt-sistemi-72f38",
+    "storage_bucket": "yurt-sistemi-72f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592001717328:android:054ba2292c1575d4cb6d55",
+        "android_client_info": {
+          "package_name": "com.example.yurt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592001717328-1dbhekcjkap8mm00ldl9sqh6cmnfmnte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1kHZk-JTL_HhMXC5vd6iiKuRwgna-z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592001717328-1dbhekcjkap8mm00ldl9sqh6cmnfmnte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
